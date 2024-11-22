@@ -1,0 +1,151 @@
+/mnt/Publicidade/ADV
+
+__FOLDER_TEMPLATE_2020
+
+├── 01_PROJETO
+│   ├── ARTE
+│   │   ├── 01_AEP                                  # After Effects projects
+│   │   ├── 02_PSD                                  # Photoshop projects
+│   │   ├── 03_C4D                                  # Maxon Cinema4D projects
+│   │   ├── 04_AI                                   # Illustrator projects
+│   │   ├── 05_INDD                                 # InDesign projects
+│   │   ├── 06_OUT_COLLECT                          # Collection directory for Adobe?
+│   │   └── _ASSETS                                 # Assets
+│   │       ├── AUDIO                               # Audio
+│   │       ├── FONT                                # Font
+│   │       ├── MODEL                               # Model
+│   │       ├── PRE_RENDER                          # PreRenders
+│   │       │   ├── AE                              # After Effects
+│   │       │   └── C4D                             # Cinema 4D
+│   │       ├── STILL                               # Graphics - Still
+│   │       └── VIDEO                               # Graphics - Motion
+│   ├── COR                                         # Grading
+│   ├── EDIT                                        # Editorial projects
+│   │   └── Adobe Premiere Pro Auto-Save            # Backup files
+│   └── FINALIZADOR                                 # Bureaucracy
+├── 03_EDLs_XMLs_AAfs                               # Edit Decision Lists
+├── 04_OFFLINES                                     # Offline editorial
+│   ├── _APROVADOS                                  # Approved Editorial - Ready for conform
+│   └── DATA                                        # Work In Progress / Abandoned Versions
+├── 05_VFX
+│   ├── 3D
+│   │   ├── 00_IN
+│   │   │   └── sound
+│   │   ├── 01_PLATES
+│   │   │   └── SHOT_NAME
+│   │   ├── 02_TRACKING
+│   │   │   └── SHOT_NAME
+│   │   ├── 03_ASSETS
+│   │   │   ├── ASS
+│   │   │   ├── ASSET_NAME
+│   │   │   │   ├── MODEL
+│   │   │   │   ├── RIGGING
+│   │   │   │   └── TEXTURE
+│   │   │   └── OBJ_FBX
+│   │   ├── 04_CACHE_RELEASE
+│   │   │   ├── alembic
+│   │   │   ├── nCache
+│   │   │   │   └── fluid
+│   │   │   ├── particles
+│   │   │   └── timeEditor
+│   │   ├── 05_SCENES
+│   │   │   └── SHOT_NAME
+│   │   │       └── publish
+│   │   ├── 06_TEXTURES
+│   │   │   ├── 3dPaintTextures
+│   │   │   └── fur
+│   │   │       ├── furAttrMap
+│   │   │       ├── furEqualMap
+│   │   │       ├── furFiles
+│   │   │       ├── furImages
+│   │   │       └── furShadowMap
+│   │   ├── 07_COMP
+│   │   │   └── SHOT_NAME
+│   │   ├── 08_RENDER_OUTPUT
+│   │   ├── 09_PREVIEWS_OUT
+│   │   ├── 10_SHADER
+│   │   └── 11_MAYA_FILES
+│   │       ├── 3dPaintTextures
+│   │       ├── autosave
+│   │       ├── Clip Exports
+│   │       ├── data
+│   │       │   └── depth
+│   │       ├── nCache
+│   │       ├── scripts
+│   │       └── sound
+│   ├── ARTE
+│   │   ├── IN
+│   │   │   ├── FONT
+│   │   │   ├── PRJ_EXTERNO
+│   │   │   │   ├── AEP
+│   │   │   │   ├── AI
+│   │   │   │   ├── C4D
+│   │   │   │   ├── FCP
+│   │   │   │   ├── INDD
+│   │   │   │   ├── PSD
+│   │   │   │   └── XML
+│   │   │   ├── STILL
+│   │   │   └── VIDEO
+│   │   └── OUT
+│   ├── COMP
+│   │   ├── IN
+│   │   └── OUT
+│   └── GRADING
+├── 06_REFS
+├── 07_DOCUMENTOS
+│   ├── APs
+│   ├── CLAQUETES
+│   │   ├── FONT
+│   │   └── MIDIA
+│   ├── CRONO
+│   ├── FRAMES
+│   │   ├── IN
+│   │   └── OUT
+│   ├── LISTA_VFX
+│   ├── PLANO_DE_FILMAGEM
+│   ├── PPM
+│   ├── REPORTS
+│   │   ├── BOLETINS_CONT
+│   │   ├── BOLETINS_SOM
+│   │   └── LOGGER
+│   ├── ROTEIRO
+│   ├── STORYBOARDS
+│   ├── TRATAMENTO
+│   └── WORKFLOW
+├── 09_MASTER
+│   └── BASE_LIMPA
+├── 10_AUDIO
+│   ├── _COPIAS
+│   ├── IN
+│   └── OUT
+├── 11_CLAQUETES
+│   ├── EXPORT
+│   │   ├── IN
+│   │   └── OUT
+│   └── TEMPLATE_NOVA_CLAQUETE
+│       └── HD
+├── 12_TRABALHO
+│   └── _APROVADOS
+├── 13_CC
+│   ├── CHECK
+│   ├── IN
+│   ├── OUT
+│   ├── PROJETO
+│   ├── ROTEIRO
+│   └── SRT
+├── 14_DELIVERIES
+│   ├── APROVACAO
+│   ├── COPIAS
+│   │   └── _data
+│   │       └── _roteiro
+│   │           └── _duracao
+│   ├── ESPECIFICACOES
+│   ├── PEDIDOS
+│   │   └── _data
+│   │       └── _roteiro
+│   │           └── _duracao
+│   └── PROJETO
+└── 15_REPERTORIO
+    ├── ARTE
+    ├── COMP
+    └── COR
