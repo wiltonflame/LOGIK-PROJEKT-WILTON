@@ -204,9 +204,9 @@ def string_clean(string):
     '''
     Clean string: allow only lower case letters, numbers, and underscores.
 
-        * Convert to lowercase
+        * Convert to uppercase
 
-        * Keep only lowercase letters, numbers, underscores, and replace
+        * Keep only uppercase letters, numbers, underscores, and replace
           other characters with underscores
 
         * Replace whitespace characters with underscores
@@ -217,11 +217,11 @@ def string_clean(string):
 
     '''
 
-    string = string.lower()
+    string = string.upper()
 
     string = ''.join(
         character 
-        if character.islower() 
+        if character.isupper() 
         or character.isdigit() 
         or character == '_' 
         or character.isspace() 
